@@ -13,5 +13,7 @@ Para usar este projeto, basta baixar ou clonar o repositório e abrir o arquivo 
 Este projeto foi criado usando as seguintes tecnologias:
 
 HTML
+
 CSS
+
 Flex Box
